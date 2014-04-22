@@ -1,0 +1,7 @@
+#!/bin/sh
+
+name="README.md"
+format="html"
+i="html"
+
+. ./_convert

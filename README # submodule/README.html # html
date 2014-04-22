@@ -1,0 +1,7 @@
+#!/bin/sh
+
+name="README.rst"
+format="html"
+i="html"
+
+. ./_convert

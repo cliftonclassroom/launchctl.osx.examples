@@ -1,0 +1,3 @@
+#!/bin/sh
+
+launchctl unload -w $(find_plist com.apple.storeagent)

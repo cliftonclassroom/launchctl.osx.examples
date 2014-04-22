@@ -1,0 +1,3 @@
+#!/bin/sh
+
+launchctl list | grep com.apple.mdworker
