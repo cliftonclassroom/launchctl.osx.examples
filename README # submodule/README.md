@@ -1,1 +1,0 @@
-git submodule add git@github.com:cancerhermit/README.submodule.git "README # submodule"

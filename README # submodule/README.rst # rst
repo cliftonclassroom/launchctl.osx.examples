@@ -1,7 +1,0 @@
-#!/bin/sh
-
-name="README.rst"
-format="rst"
-i="pyc"
-
-. ./_convert

@@ -1,7 +1,0 @@
-#!/bin/sh
-
-name="README.md"
-format="markdown"
-i="md"
-
-. ./_convert
