@@ -1,12 +1,12 @@
 [submodule "github.com # submodule"]
 	path = "github.com # submodule"
 	url = https://github.com/cancerhermit/github.submodule.git
-[submodule "gh-pages # submodule"]
-	path = "gh-pages # submodule"
-	url = https://github.com/cancerhermit/gh-pages.submodule.git
 [submodule "git # submodule"]
 	path = "git # submodule"
 	url = https://github.com/cancerhermit/git.submodule.git
 [submodule "README # submodule"]
 	path = "README # submodule"
 	url = https://github.com/cancerhermit/README.submodule.git
+[submodule "gh-pages # submodule"]
+	path = "gh-pages # submodule"
+	url = https://github.com/cancerhermit/gh-pages.submodule.git
